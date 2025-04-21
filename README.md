@@ -1,8 +1,8 @@
-# 🚀 **Prepwise** - Job Interview Preparation with AI
+# 🚀 **Smart-Prep** - Job Interview Preparation with AI
 
-**Prepwise** is an innovative platform designed to help you prepare for job interviews with the integration of advanced AI models. Built with **Next.js** for seamless front-end and back-end operations, **Firebase** for secure authentication and data management, and styled with **TailwindCSS**, Prepwise offers a sleek and modern user experience.
+**Smart-Prep** is an innovative platform designed to help you prepare for job interviews with the integration of advanced AI models. Built with **Next.js** for seamless front-end and back-end operations, **Firebase** for secure authentication and data management, and styled with **TailwindCSS**, Smart-Prep offers a sleek and modern user experience.
 
-The platform leverages **Vapi's Voice Agents** and **Google Gemini** for creating realistic, interactive interview scenarios, providing real-time feedback, and helping you improve your interview skills. Whether you’re new to interviews or a seasoned pro, Prepwise is here to elevate your preparation process.
+The platform leverages **Vapi's Voice Agents** and **Google Gemini** for creating realistic, interactive interview scenarios, providing real-time feedback, and helping you improve your interview skills. Whether you’re new to interviews or a seasoned pro, Smart-Prep is here to elevate your preparation process.
 
 ---
 
